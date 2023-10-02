@@ -412,3 +412,9 @@ This project contains tasks for learning to create a queueing system in JavaScri
     + Make sure the format returned by the web application is always JSON and not text.
     + Make sure that only the allowed amount of seats can be reserved.
     + Make sure that the main route is displaying the right number of seats.
+   
+  ## RESOURCES
++ [x] [Redis quick start](https://intranet.alxswe.com/rltoken/8xeApIhnxgFZkgn54BiIeA)
++ [x] [Redis client interface](https://intranet.alxswe.com/rltoken/1rq3ral-3C5O1t67dbGcWg)
++ [x] [Redis client for Node JS](https://intranet.alxswe.com/rltoken/mRftfl67BrNvl-RM5JQfUA)
++ [x] [Kue deprecated but still use in the industry](https://intranet.alxswe.com/rltoken/yTC3Ci2IV2US24xJsBfMgQ)   
