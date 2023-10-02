@@ -115,3 +115,8 @@ This project contains tasks for learning to create internationalized web pages w
     ![Hello World! with a logged in message and the current time in French](assets/task_8_1.png)
   + Displaying the time in English looks like this:<br/>
     ![Hello World! with a logged in message and the current time in English](assets/task_8_2.png)
+
+    ## RESOURCES
+    + [x] [Flask-Babel](https://intranet.alxswe.com/rltoken/fBpGjDt2BFuBFiz-jwublQ)
+    + [x] [Flask i18n tutorial](https://intranet.alxswe.com/rltoken/RtGz7pI7TKnYqrMMG9rWMg)
+    + [x] [pytz](https://intranet.alxswe.com/rltoken/7rrCz4pkpqAn4FfRZ2Vsvw)  
