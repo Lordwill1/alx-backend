@@ -79,3 +79,11 @@ This project contains tasks for learning to cache data.
   + `def get(self, key):`:
     + Must return the value in `self.cache_data` linked to `key`.
     + If `key` is `None` or if the `key` doesn't exist in `self.cache_data`, return `None`.
+   
+
+## RESOURCES
++ [x] [Cache replacement policies - FIFO](https://intranet.alxswe.com/rltoken/fjhr6EvFeF3mWwsPQXUKdQ)
++ [x] [Cache replacement policies - LIFO](https://intranet.alxswe.com/rltoken/U44RQjXp8xBtsbNIyhHIyw) 
++ [x] [Cache replacement policies - LRU](https://intranet.alxswe.com/rltoken/gKerxvR4dnXQYkBX2ujZiQ)
++ [x] [Cache replacement policies - MRU](https://intranet.alxswe.com/rltoken/Tmk4qEBZ7QTknvbpKabWfQ)
++ [x] [Cache replacement policies - LFU](https://intranet.alxswe.com/rltoken/8PEJ8L34bxhL2y--BW5zGQ) 
